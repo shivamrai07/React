@@ -1,0 +1,6 @@
+.heading {
+  font-size: 100px;
+  font-weight: bold;
+  border-bottom: 5px solid black;
+  color: rgb(43, 255, 0);
+}
